@@ -1,3 +1,8 @@
+
+/**
+ * @author Sunil.Yadav
+ * 	
+ */
 class MyCircularDeque {
         int []list;
         int cnt =0;
